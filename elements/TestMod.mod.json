@@ -1,0 +1,11 @@
+{
+  "_fv": 13,
+  "_type": "tab",
+  "definition": {
+    "name": "Test Mod",
+    "icon": {
+      "value": "CUSTOM:CopperOre"
+    },
+    "showSearch": false
+  }
+}

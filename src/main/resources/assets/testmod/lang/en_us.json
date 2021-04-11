@@ -1,0 +1,14 @@
+{
+  "block.testmod.topaz_ore": "Topaz Ore",
+  "itemGroup.tabtest_mod": "Test Mod",
+  "block.testmod.sulfur_ore": "Sulfur Ore",
+  "block.testmod.zinc_ore": "Zinc Ore",
+  "block.testmod.copper_ore": "Copper Ore",
+  "item.testmod.topaz": "Topaz",
+  "block.testmod.nickel_ore": "Nickel Ore",
+  "block.testmod.vanadium_ore": "Vanadium Ore",
+  "item.testmod.copper_ingot": "Copper Ingot",
+  "block.testmod.strawberry_plant": "Strawberry Plant",
+  "block.testmod.tin_ore": "Tin Ore",
+  "block.testmod.manganese_ore": "Manganese Ore"
+}

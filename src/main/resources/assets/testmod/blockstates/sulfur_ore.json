@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "testmod:block/sulfur_ore"
+    }
+  }
+}

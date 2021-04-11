@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "testmod:blocks/zincore",
+    "particle": "testmod:blocks/zincore"
+  }
+}

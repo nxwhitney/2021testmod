@@ -1,0 +1,148 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CopperOre",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ore"
+    },
+    {
+      "name": "ManganeseOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "manganese_ore"
+    },
+    {
+      "name": "NickelOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nickel_ore"
+    },
+    {
+      "name": "SulfurOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sulfur_ore"
+    },
+    {
+      "name": "TinOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tin_ore"
+    },
+    {
+      "name": "TestMod",
+      "type": "tab",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test_mod"
+    },
+    {
+      "name": "CopperIngot",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "copper_ingot"
+    },
+    {
+      "name": "TopazOre",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_ore"
+    },
+    {
+      "name": "VanadiumOre",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vanadium_ore"
+    },
+    {
+      "name": "ZincOre",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zinc_ore"
+    },
+    {
+      "name": "StrawberryPlant",
+      "type": "plant",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strawberry_plant"
+    },
+    {
+      "name": "Topaz",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.testmod.topaz_ore": "Topaz Ore",
+      "itemGroup.tabtest_mod": "Test Mod",
+      "block.testmod.sulfur_ore": "Sulfur Ore",
+      "block.testmod.zinc_ore": "Zinc Ore",
+      "block.testmod.copper_ore": "Copper Ore",
+      "item.testmod.topaz": "Topaz",
+      "block.testmod.nickel_ore": "Nickel Ore",
+      "block.testmod.vanadium_ore": "Vanadium Ore",
+      "item.testmod.copper_ingot": "Copper Ingot",
+      "block.testmod.strawberry_plant": "Strawberry Plant",
+      "block.testmod.tin_ore": "Tin Ore",
+      "block.testmod.manganese_ore": "Manganese Ore"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "testmod",
+    "modName": "TestMod",
+    "version": "1.0.0",
+    "author": "nathan.whitney, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.testmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
